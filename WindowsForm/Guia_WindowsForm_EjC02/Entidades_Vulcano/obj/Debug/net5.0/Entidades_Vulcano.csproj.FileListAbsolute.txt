@@ -1,0 +1,12 @@
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\bin\Debug\net5.0\Entidades_Vulcano.deps.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\bin\Debug\net5.0\Entidades_Vulcano.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\bin\Debug\net5.0\ref\Entidades_Vulcano.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\bin\Debug\net5.0\Entidades_Vulcano.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\obj\Debug\net5.0\Entidades_Vulcano.csproj.AssemblyReference.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\obj\Debug\net5.0\Entidades_Vulcano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\obj\Debug\net5.0\Entidades_Vulcano.AssemblyInfoInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\obj\Debug\net5.0\Entidades_Vulcano.AssemblyInfo.cs
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\obj\Debug\net5.0\Entidades_Vulcano.csproj.CoreCompileInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\obj\Debug\net5.0\Entidades_Vulcano.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\obj\Debug\net5.0\ref\Entidades_Vulcano.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC02\Entidades_Vulcano\obj\Debug\net5.0\Entidades_Vulcano.pdb

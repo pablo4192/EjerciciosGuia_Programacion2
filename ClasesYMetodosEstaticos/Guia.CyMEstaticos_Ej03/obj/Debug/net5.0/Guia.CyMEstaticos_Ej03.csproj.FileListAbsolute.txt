@@ -1,0 +1,16 @@
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\bin\Debug\net5.0\Guia.CyMEstaticos_Ej03.exe
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\bin\Debug\net5.0\Guia.CyMEstaticos_Ej03.deps.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\bin\Debug\net5.0\Guia.CyMEstaticos_Ej03.runtimeconfig.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\bin\Debug\net5.0\Guia.CyMEstaticos_Ej03.runtimeconfig.dev.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\bin\Debug\net5.0\Guia.CyMEstaticos_Ej03.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\bin\Debug\net5.0\ref\Guia.CyMEstaticos_Ej03.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\bin\Debug\net5.0\Guia.CyMEstaticos_Ej03.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\obj\Debug\net5.0\Guia.CyMEstaticos_Ej03.csproj.AssemblyReference.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\obj\Debug\net5.0\Guia.CyMEstaticos_Ej03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\obj\Debug\net5.0\Guia.CyMEstaticos_Ej03.AssemblyInfoInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\obj\Debug\net5.0\Guia.CyMEstaticos_Ej03.AssemblyInfo.cs
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\obj\Debug\net5.0\Guia.CyMEstaticos_Ej03.csproj.CoreCompileInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\obj\Debug\net5.0\Guia.CyMEstaticos_Ej03.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\obj\Debug\net5.0\ref\Guia.CyMEstaticos_Ej03.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\obj\Debug\net5.0\Guia.CyMEstaticos_Ej03.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia.CyMEstaticos_Ej03\obj\Debug\net5.0\Guia.CyMEstaticos_Ej03.genruntimeconfig.cache

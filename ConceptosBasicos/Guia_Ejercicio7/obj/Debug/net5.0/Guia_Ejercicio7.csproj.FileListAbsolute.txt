@@ -1,0 +1,16 @@
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\bin\Debug\net5.0\Guia_Ejercicio7.exe
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\bin\Debug\net5.0\Guia_Ejercicio7.deps.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\bin\Debug\net5.0\Guia_Ejercicio7.runtimeconfig.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\bin\Debug\net5.0\Guia_Ejercicio7.runtimeconfig.dev.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\bin\Debug\net5.0\Guia_Ejercicio7.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\bin\Debug\net5.0\ref\Guia_Ejercicio7.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\bin\Debug\net5.0\Guia_Ejercicio7.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\obj\Debug\net5.0\Guia_Ejercicio7.csproj.AssemblyReference.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\obj\Debug\net5.0\Guia_Ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\obj\Debug\net5.0\Guia_Ejercicio7.AssemblyInfoInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\obj\Debug\net5.0\Guia_Ejercicio7.AssemblyInfo.cs
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\obj\Debug\net5.0\Guia_Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\obj\Debug\net5.0\Guia_Ejercicio7.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\obj\Debug\net5.0\ref\Guia_Ejercicio7.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\obj\Debug\net5.0\Guia_Ejercicio7.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Guia_Ejercicio7\obj\Debug\net5.0\Guia_Ejercicio7.genruntimeconfig.cache

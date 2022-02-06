@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "807fc9ba-90d6-4ed0-817b-16cdc7ae1c03": {
+      "ProjectGuid": "807fc9ba-90d6-4ed0-817b-16cdc7ae1c03",
+      "DisplayName": "Guia_Encapsulamiento_Ej01",
+      "ColorIndex": 0
+    },
+    "8fc70571-624c-4fdb-9910-4fd8c7776d49": {
+      "ProjectGuid": "8fc70571-624c-4fdb-9910-4fd8c7776d49",
+      "DisplayName": "Consola_Encapsulamiento_Ej01",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

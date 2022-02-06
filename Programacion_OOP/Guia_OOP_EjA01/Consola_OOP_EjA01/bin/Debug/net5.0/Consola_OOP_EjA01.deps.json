@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consola_OOP_EjA01/1.0.0": {
+        "dependencies": {
+          "Guia_OOP_EjA01": "1.0.0"
+        },
+        "runtime": {
+          "Consola_OOP_EjA01.dll": {}
+        }
+      },
+      "Guia_OOP_EjA01/1.0.0": {
+        "runtime": {
+          "Guia_OOP_EjA01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola_OOP_EjA01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guia_OOP_EjA01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

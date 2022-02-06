@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2879ed8f-ce1c-4ce6-a27d-af9153c0f2fc": {
+      "ProjectGuid": "2879ed8f-ce1c-4ce6-a27d-af9153c0f2fc",
+      "DisplayName": "Guia_WindowsForm_Ej02",
+      "ColorIndex": 0
+    },
+    "66604421-8c6d-4a4b-bdde-f1379177ad3a": {
+      "ProjectGuid": "66604421-8c6d-4a4b-bdde-f1379177ad3a",
+      "DisplayName": "Entidades_WForm_Ej02",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guia_Encapsulamiento_Ej02", "Guia_Encapsulamiento_Ej02\Guia_Encapsulamiento_Ej02.csproj", "{574622C5-FDBA-4D53-9E5A-B616B167C98C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola_Encapsulamiento_Ej02", "Consola_Encapsulamiento_Ej02\Consola_Encapsulamiento_Ej02.csproj", "{1BA83584-BEF8-4328-970A-F315642DC8A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{574622C5-FDBA-4D53-9E5A-B616B167C98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574622C5-FDBA-4D53-9E5A-B616B167C98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574622C5-FDBA-4D53-9E5A-B616B167C98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574622C5-FDBA-4D53-9E5A-B616B167C98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA83584-BEF8-4328-970A-F315642DC8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA83584-BEF8-4328-970A-F315642DC8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA83584-BEF8-4328-970A-F315642DC8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA83584-BEF8-4328-970A-F315642DC8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02106DB0-4737-4405-9451-934894C4C59B}
+	EndGlobalSection
+EndGlobal

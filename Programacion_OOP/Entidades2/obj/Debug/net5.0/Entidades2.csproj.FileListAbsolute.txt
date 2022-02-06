@@ -1,0 +1,12 @@
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\bin\Debug\net5.0\Entidades2.deps.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\bin\Debug\net5.0\Entidades2.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\bin\Debug\net5.0\ref\Entidades2.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\bin\Debug\net5.0\Entidades2.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\obj\Debug\net5.0\Entidades2.csproj.AssemblyReference.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\obj\Debug\net5.0\Entidades2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\obj\Debug\net5.0\Entidades2.AssemblyInfoInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\obj\Debug\net5.0\Entidades2.AssemblyInfo.cs
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\obj\Debug\net5.0\Entidades2.csproj.CoreCompileInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\obj\Debug\net5.0\Entidades2.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\obj\Debug\net5.0\ref\Entidades2.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Programacion_OOP\Entidades2\obj\Debug\net5.0\Entidades2.pdb

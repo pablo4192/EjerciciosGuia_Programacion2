@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Guia_WindowsForm_EjC03/1.0.0": {
+        "dependencies": {
+          "Entidades_Conversor": "1.0.0"
+        },
+        "runtime": {
+          "Guia_WindowsForm_EjC03.dll": {}
+        }
+      },
+      "Entidades_Conversor/1.0.0": {
+        "runtime": {
+          "Entidades_Conversor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guia_WindowsForm_EjC03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades_Conversor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

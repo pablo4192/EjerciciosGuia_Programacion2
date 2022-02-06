@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "181957dd-6169-43d5-bdf3-295d3f2476f5": {
+      "ProjectGuid": "181957dd-6169-43d5-bdf3-295d3f2476f5",
+      "DisplayName": "Guia_OOP_Ej02",
+      "ColorIndex": 0
+    },
+    "9ae7ff2a-1ada-4487-90c4-2dcfcf7a8c14": {
+      "ProjectGuid": "9ae7ff2a-1ada-4487-90c4-2dcfcf7a8c14",
+      "DisplayName": "Entidades2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

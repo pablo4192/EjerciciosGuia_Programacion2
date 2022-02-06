@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Guia_OOP_Ej03/1.0.0": {
+        "dependencies": {
+          "Entidades3": "1.0.0"
+        },
+        "runtime": {
+          "Guia_OOP_Ej03.dll": {}
+        }
+      },
+      "Entidades3/1.0.0": {
+        "runtime": {
+          "Entidades3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guia_OOP_Ej03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

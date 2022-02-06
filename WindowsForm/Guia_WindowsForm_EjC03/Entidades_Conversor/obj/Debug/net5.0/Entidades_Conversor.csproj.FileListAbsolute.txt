@@ -1,0 +1,12 @@
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\bin\Debug\net5.0\Entidades_Conversor.deps.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\bin\Debug\net5.0\Entidades_Conversor.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\bin\Debug\net5.0\ref\Entidades_Conversor.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\bin\Debug\net5.0\Entidades_Conversor.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\obj\Debug\net5.0\Entidades_Conversor.csproj.AssemblyReference.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\obj\Debug\net5.0\Entidades_Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\obj\Debug\net5.0\Entidades_Conversor.AssemblyInfoInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\obj\Debug\net5.0\Entidades_Conversor.AssemblyInfo.cs
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\obj\Debug\net5.0\Entidades_Conversor.csproj.CoreCompileInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\obj\Debug\net5.0\Entidades_Conversor.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\obj\Debug\net5.0\ref\Entidades_Conversor.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC03\Entidades_Conversor\obj\Debug\net5.0\Entidades_Conversor.pdb

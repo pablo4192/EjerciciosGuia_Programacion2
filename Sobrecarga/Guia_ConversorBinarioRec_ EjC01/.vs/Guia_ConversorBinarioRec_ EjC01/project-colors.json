@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b28ded15-b04c-4f61-a45c-46853baaa13e": {
+      "ProjectGuid": "b28ded15-b04c-4f61-a45c-46853baaa13e",
+      "DisplayName": "Guia_ConversorBinarioRec_ EjC01",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "f433f9f7-bad9-41a9-8bca-9a0c933dfcef": {
+      "ProjectGuid": "f433f9f7-bad9-41a9-8bca-9a0c933dfcef",
+      "DisplayName": "Consola_ConversorBinario",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

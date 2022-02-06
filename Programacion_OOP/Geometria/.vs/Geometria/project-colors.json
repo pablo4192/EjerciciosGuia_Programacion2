@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74a6af7b-07ec-4639-83b9-7a83471adbdc": {
+      "ProjectGuid": "74a6af7b-07ec-4639-83b9-7a83471adbdc",
+      "DisplayName": "Geometria",
+      "ColorIndex": 0
+    },
+    "34d12bdf-9bb8-4e2d-85c6-2e6065a2db4e": {
+      "ProjectGuid": "34d12bdf-9bb8-4e2d-85c6-2e6065a2db4e",
+      "DisplayName": "OOP_Consola_Ej05",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

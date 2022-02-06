@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e3f48ed-cf2e-40e5-b839-a25800ef466e": {
+      "ProjectGuid": "8e3f48ed-cf2e-40e5-b839-a25800ef466e",
+      "DisplayName": "Guia_WindowsForm_EjC03",
+      "ColorIndex": 0
+    },
+    "23fcf614-28c3-4c18-912a-701ce218e4ce": {
+      "ProjectGuid": "23fcf614-28c3-4c18-912a-701ce218e4ce",
+      "DisplayName": "Entidades_Conversor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

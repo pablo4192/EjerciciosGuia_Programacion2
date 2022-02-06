@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Guia_WindowsForm_EjC01/1.0.0": {
+        "dependencies": {
+          "Entidades_Cotizador": "1.0.0"
+        },
+        "runtime": {
+          "Guia_WindowsForm_EjC01.dll": {}
+        }
+      },
+      "Entidades_Cotizador/1.0.0": {
+        "runtime": {
+          "Entidades_Cotizador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guia_WindowsForm_EjC01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades_Cotizador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

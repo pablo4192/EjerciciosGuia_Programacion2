@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Guia_Sobrecarga_EjC02/1.0.0": {
+        "runtime": {
+          "Guia_Sobrecarga_EjC02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guia_Sobrecarga_EjC02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a1dc745-363a-491f-b783-503a50252213": {
+      "ProjectGuid": "0a1dc745-363a-491f-b783-503a50252213",
+      "DisplayName": "Guia_WindowsForm_EjC02",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "5cb3743e-2793-43d5-8385-af0cb2dd3f8b": {
+      "ProjectGuid": "5cb3743e-2793-43d5-8385-af0cb2dd3f8b",
+      "DisplayName": "Entidades_Vulcano",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

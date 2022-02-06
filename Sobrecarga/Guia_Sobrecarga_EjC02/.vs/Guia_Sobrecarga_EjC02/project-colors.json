@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "542c7f61-b724-481a-9030-cf4f9134b789": {
+      "ProjectGuid": "542c7f61-b724-481a-9030-cf4f9134b789",
+      "DisplayName": "Guia_Sobrecarga_EjC02",
+      "ColorIndex": 0
+    },
+    "d78a340a-1a64-4fed-900b-9f8305bb6d71": {
+      "ProjectGuid": "d78a340a-1a64-4fed-900b-9f8305bb6d71",
+      "DisplayName": "Consola_Sobrecarga_EjC02",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

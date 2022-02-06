@@ -1,0 +1,12 @@
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\bin\Debug\net5.0\Entidades_Cotizador.deps.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\bin\Debug\net5.0\Entidades_Cotizador.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\bin\Debug\net5.0\ref\Entidades_Cotizador.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\bin\Debug\net5.0\Entidades_Cotizador.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\obj\Debug\net5.0\Entidades_Cotizador.csproj.AssemblyReference.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\obj\Debug\net5.0\Entidades_Cotizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\obj\Debug\net5.0\Entidades_Cotizador.AssemblyInfoInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\obj\Debug\net5.0\Entidades_Cotizador.AssemblyInfo.cs
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\obj\Debug\net5.0\Entidades_Cotizador.csproj.CoreCompileInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\obj\Debug\net5.0\Entidades_Cotizador.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\obj\Debug\net5.0\ref\Entidades_Cotizador.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\WindowsForm\Guia_WindowsForm_EjC01\Entidades_Cotizador\obj\Debug\net5.0\Entidades_Cotizador.pdb
