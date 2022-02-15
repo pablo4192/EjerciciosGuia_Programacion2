@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "788b5856-a27e-430b-81e1-595c8ff71cd6": {
+      "ProjectGuid": "788b5856-a27e-430b-81e1-595c8ff71cd6",
+      "DisplayName": "Guia_UnitTests-EjC03",
+      "ColorIndex": 0
+    },
+    "4494aeb6-dd6f-4a1b-b0c1-c23c1437a6c3": {
+      "ProjectGuid": "4494aeb6-dd6f-4a1b-b0c1-c23c1437a6c3",
+      "DisplayName": "Consola_UnitTests_EjC03",
+      "ColorIndex": 1
+    },
+    "7da9631f-eec7-4ece-a0b6-6d25620ef456": {
+      "ProjectGuid": "7da9631f-eec7-4ece-a0b6-6d25620ef456",
+      "DisplayName": "Test_ParadaEnBoxes",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

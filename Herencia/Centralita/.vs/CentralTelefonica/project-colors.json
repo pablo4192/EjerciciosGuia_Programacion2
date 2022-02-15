@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7102396-d68e-4b9f-9d96-b9da064aa52d": {
+      "ProjectGuid": "f7102396-d68e-4b9f-9d96-b9da064aa52d",
+      "DisplayName": "Centralita",
+      "ColorIndex": 0
+    },
+    "1cbd02b9-3a90-492a-8456-b607a31bc34f": {
+      "ProjectGuid": "1cbd02b9-3a90-492a-8456-b607a31bc34f",
+      "DisplayName": "Consola_Herencia_Centralita",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

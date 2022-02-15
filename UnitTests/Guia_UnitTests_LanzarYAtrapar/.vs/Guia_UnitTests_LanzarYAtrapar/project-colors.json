@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc5375d5-2958-4102-aa37-f13ab1a08211": {
+      "ProjectGuid": "dc5375d5-2958-4102-aa37-f13ab1a08211",
+      "DisplayName": "Guia_UnitTests_LanzarYAtrapar",
+      "ColorIndex": 0
+    },
+    "262292c5-9582-439f-a9f5-f011e6741186": {
+      "ProjectGuid": "262292c5-9582-439f-a9f5-f011e6741186",
+      "DisplayName": "Consola_UnitTests_LanzarAtrapar",
+      "ColorIndex": 1
+    },
+    "b1939260-8ac9-444b-b1c8-a39808de0dec": {
+      "ProjectGuid": "b1939260-8ac9-444b-b1c8-a39808de0dec",
+      "DisplayName": "Test_LanzarAtrapar",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

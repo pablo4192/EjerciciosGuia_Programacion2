@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consola_Polimorfismo_Centralita/1.0.0": {
+        "dependencies": {
+          "Centralita2": "1.0.0"
+        },
+        "runtime": {
+          "Consola_Polimorfismo_Centralita.dll": {}
+        }
+      },
+      "Centralita2/1.0.0": {
+        "runtime": {
+          "Centralita2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola_Polimorfismo_Centralita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Centralita2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

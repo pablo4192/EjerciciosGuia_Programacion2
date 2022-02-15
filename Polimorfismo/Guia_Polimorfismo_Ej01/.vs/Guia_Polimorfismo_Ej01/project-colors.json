@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb07656a-e769-4b04-8d7e-2a00e6aacfd8": {
+      "ProjectGuid": "fb07656a-e769-4b04-8d7e-2a00e6aacfd8",
+      "DisplayName": "Guia_Polimorfismo_Ej01",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

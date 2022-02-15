@@ -1,0 +1,12 @@
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\bin\Debug\net5.0\Guia_Herencia_Ej01.deps.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\bin\Debug\net5.0\Guia_Herencia_Ej01.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\bin\Debug\net5.0\ref\Guia_Herencia_Ej01.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\bin\Debug\net5.0\Guia_Herencia_Ej01.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\obj\Debug\net5.0\Guia_Herencia_Ej01.csproj.AssemblyReference.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\obj\Debug\net5.0\Guia_Herencia_Ej01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\obj\Debug\net5.0\Guia_Herencia_Ej01.AssemblyInfoInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\obj\Debug\net5.0\Guia_Herencia_Ej01.AssemblyInfo.cs
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\obj\Debug\net5.0\Guia_Herencia_Ej01.csproj.CoreCompileInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\obj\Debug\net5.0\Guia_Herencia_Ej01.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\obj\Debug\net5.0\ref\Guia_Herencia_Ej01.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Guia_Herencia_Ej01\Guia_Herencia_Ej01\obj\Debug\net5.0\Guia_Herencia_Ej01.pdb

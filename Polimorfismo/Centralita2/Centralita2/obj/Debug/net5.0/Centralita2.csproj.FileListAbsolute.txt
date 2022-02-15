@@ -1,0 +1,12 @@
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\obj\Debug\net5.0\Centralita2.csproj.AssemblyReference.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\obj\Debug\net5.0\Centralita2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\obj\Debug\net5.0\Centralita2.AssemblyInfoInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\obj\Debug\net5.0\Centralita2.AssemblyInfo.cs
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\obj\Debug\net5.0\Centralita2.csproj.CoreCompileInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\bin\Debug\net5.0\Centralita2.deps.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\bin\Debug\net5.0\Centralita2.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\bin\Debug\net5.0\ref\Centralita2.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\bin\Debug\net5.0\Centralita2.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\obj\Debug\net5.0\Centralita2.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\obj\Debug\net5.0\ref\Centralita2.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Polimorfismo\Centralita2\Centralita2\obj\Debug\net5.0\Centralita2.pdb

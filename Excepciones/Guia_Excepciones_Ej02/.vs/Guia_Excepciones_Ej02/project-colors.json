@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a85a98be-0fe1-4abd-9a9c-49a7b1ec8be9": {
+      "ProjectGuid": "a85a98be-0fe1-4abd-9a9c-49a7b1ec8be9",
+      "DisplayName": "Guia_Excepciones_Ej02",
+      "ColorIndex": 0
+    },
+    "b9beebac-0557-4a94-905d-5757970c9d1e": {
+      "ProjectGuid": "b9beebac-0557-4a94-905d-5757970c9d1e",
+      "DisplayName": "Entidades_Excepciones_Ej02",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

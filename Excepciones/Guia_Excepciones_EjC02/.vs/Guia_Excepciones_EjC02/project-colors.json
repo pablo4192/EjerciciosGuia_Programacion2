@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02ef061f-d029-48f5-a9f8-e612ce5e3496": {
+      "ProjectGuid": "02ef061f-d029-48f5-a9f8-e612ce5e3496",
+      "DisplayName": "Guia_Excepciones_EjC02",
+      "ColorIndex": 0
+    },
+    "a75607f4-b4ba-47d7-82e8-21489bdbc996": {
+      "ProjectGuid": "a75607f4-b4ba-47d7-82e8-21489bdbc996",
+      "DisplayName": "Consola_Excepciones_EjC02",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

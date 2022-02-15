@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36705384-a69b-47b7-8b89-1c462404f178": {
+      "ProjectGuid": "36705384-a69b-47b7-8b89-1c462404f178",
+      "DisplayName": "Guia_UnitTests_EjC01",
+      "ColorIndex": 0
+    },
+    "333198f7-9147-40e8-9b2b-2f7925567171": {
+      "ProjectGuid": "333198f7-9147-40e8-9b2b-2f7925567171",
+      "DisplayName": "FrmMenu_UnitTests_Centralita",
+      "ColorIndex": 1
+    },
+    "ea62963d-3065-4ea9-8478-2b9e0f0b32b9": {
+      "ProjectGuid": "ea62963d-3065-4ea9-8478-2b9e0f0b32b9",
+      "DisplayName": "Consola_UnitTests_Centralita",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "59f7ce36-416b-431f-a886-a8d9954edd83": {
+      "ProjectGuid": "59f7ce36-416b-431f-a886-a8d9954edd83",
+      "DisplayName": "Test_Guia_CentralitaIV",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

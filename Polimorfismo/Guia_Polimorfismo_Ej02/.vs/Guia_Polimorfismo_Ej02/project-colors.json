@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc8810dd-0e5e-49df-b1c2-8c7c95672700": {
+      "ProjectGuid": "dc8810dd-0e5e-49df-b1c2-8c7c95672700",
+      "DisplayName": "Guia_Polimorfismo_Ej02",
+      "ColorIndex": 0
+    },
+    "29c91b36-d841-4322-b135-b68e61e568b7": {
+      "ProjectGuid": "29c91b36-d841-4322-b135-b68e61e568b7",
+      "DisplayName": "Consola_Polimorfismo_Ej02",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

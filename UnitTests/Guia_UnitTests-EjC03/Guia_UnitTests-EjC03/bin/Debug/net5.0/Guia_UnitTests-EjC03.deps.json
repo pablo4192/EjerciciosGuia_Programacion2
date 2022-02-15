@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Guia_UnitTests-EjC03/1.0.0": {
+        "runtime": {
+          "Guia_UnitTests-EjC03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guia_UnitTests-EjC03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

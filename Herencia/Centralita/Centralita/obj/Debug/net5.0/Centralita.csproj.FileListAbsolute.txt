@@ -1,0 +1,12 @@
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\bin\Debug\net5.0\Centralita.deps.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\bin\Debug\net5.0\Centralita.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\bin\Debug\net5.0\ref\Centralita.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\bin\Debug\net5.0\Centralita.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\obj\Debug\net5.0\Centralita.csproj.AssemblyReference.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\obj\Debug\net5.0\Centralita.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\obj\Debug\net5.0\ref\Centralita.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Herencia\Centralita\Centralita\obj\Debug\net5.0\Centralita.pdb

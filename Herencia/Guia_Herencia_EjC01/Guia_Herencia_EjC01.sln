@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guia_Herencia_EjC01", "Guia_Herencia_EjC01\Guia_Herencia_EjC01.csproj", "{7CFD4A6D-9814-403A-BB6B-C30E2EE11C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola_Herencia_EjC01", "Consola_Herencia_EjC01\Consola_Herencia_EjC01.csproj", "{314E9F9F-04C6-48BA-9B5C-4DBDCF344228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFD4A6D-9814-403A-BB6B-C30E2EE11C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFD4A6D-9814-403A-BB6B-C30E2EE11C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFD4A6D-9814-403A-BB6B-C30E2EE11C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFD4A6D-9814-403A-BB6B-C30E2EE11C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314E9F9F-04C6-48BA-9B5C-4DBDCF344228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314E9F9F-04C6-48BA-9B5C-4DBDCF344228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314E9F9F-04C6-48BA-9B5C-4DBDCF344228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314E9F9F-04C6-48BA-9B5C-4DBDCF344228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E1DDD13-047E-4B52-A24A-919BE44EEE74}
+	EndGlobalSection
+EndGlobal

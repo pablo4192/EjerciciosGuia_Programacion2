@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consola_UnitTests_LanzarAtrapar/1.0.0": {
+        "dependencies": {
+          "Guia_UnitTests_LanzarYAtrapar": "1.0.0"
+        },
+        "runtime": {
+          "Consola_UnitTests_LanzarAtrapar.dll": {}
+        }
+      },
+      "Guia_UnitTests_LanzarYAtrapar/1.0.0": {
+        "runtime": {
+          "Guia_UnitTests_LanzarYAtrapar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola_UnitTests_LanzarAtrapar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guia_UnitTests_LanzarYAtrapar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7cfd4a6d-9814-403a-bb6b-c30e2ee11c9b": {
+      "ProjectGuid": "7cfd4a6d-9814-403a-bb6b-c30e2ee11c9b",
+      "DisplayName": "Guia_Herencia_EjC01",
+      "ColorIndex": 0
+    },
+    "314e9f9f-04c6-48ba-9b5c-4dbdcf344228": {
+      "ProjectGuid": "314e9f9f-04c6-48ba-9b5c-4dbdcf344228",
+      "DisplayName": "Consola_Herencia_EjC01",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

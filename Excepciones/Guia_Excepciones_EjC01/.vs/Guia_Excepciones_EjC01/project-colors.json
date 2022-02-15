@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27b876a2-9628-4789-a4cc-c3852cd3c449": {
+      "ProjectGuid": "27b876a2-9628-4789-a4cc-c3852cd3c449",
+      "DisplayName": "Guia_Excepciones_EjC01",
+      "ColorIndex": 0
+    },
+    "332c011c-a855-4919-9773-8849e2859d9c": {
+      "ProjectGuid": "332c011c-a855-4919-9773-8849e2859d9c",
+      "DisplayName": "FrmMenu",
+      "ColorIndex": 1
+    },
+    "242519ea-b4d3-4afc-8ee0-a969b014dc89": {
+      "ProjectGuid": "242519ea-b4d3-4afc-8ee0-a969b014dc89",
+      "DisplayName": "Consola_Centralita_Excepciones",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

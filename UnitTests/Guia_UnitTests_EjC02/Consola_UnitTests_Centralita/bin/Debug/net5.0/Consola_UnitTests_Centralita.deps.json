@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consola_UnitTests_Centralita/1.0.0": {
+        "dependencies": {
+          "Guia_UnitTests_EjC01": "1.0.0"
+        },
+        "runtime": {
+          "Consola_UnitTests_Centralita.dll": {}
+        }
+      },
+      "Guia_UnitTests_EjC01/1.0.0": {
+        "runtime": {
+          "Guia_UnitTests_EjC01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola_UnitTests_Centralita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guia_UnitTests_EjC01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
