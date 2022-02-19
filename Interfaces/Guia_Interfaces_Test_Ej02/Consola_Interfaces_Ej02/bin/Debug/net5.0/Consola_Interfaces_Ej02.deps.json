@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consola_Interfaces_Ej02/1.0.0": {
+        "dependencies": {
+          "Entidades_Interface_Ej02": "1.0.0"
+        },
+        "runtime": {
+          "Consola_Interfaces_Ej02.dll": {}
+        }
+      },
+      "Entidades_Interface_Ej02/1.0.0": {
+        "runtime": {
+          "Entidades_Interface_Ej02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola_Interfaces_Ej02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades_Interface_Ej02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

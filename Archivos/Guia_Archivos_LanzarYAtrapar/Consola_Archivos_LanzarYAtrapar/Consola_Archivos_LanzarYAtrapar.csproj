@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Guia_Archivos_LanzarYAtrapar\Guia_Archivos_LanzarYAtrapar.csproj" />
+    <ProjectReference Include="..\Io\Io.csproj" />
+  </ItemGroup>
+
+</Project>

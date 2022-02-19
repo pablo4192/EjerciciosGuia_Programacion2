@@ -1,0 +1,12 @@
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\bin\Debug\net5.0\Io.deps.json
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\bin\Debug\net5.0\Io.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\bin\Debug\net5.0\Io.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\obj\Debug\net5.0\Io.csproj.AssemblyReference.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\obj\Debug\net5.0\Io.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\obj\Debug\net5.0\Io.AssemblyInfoInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\obj\Debug\net5.0\Io.AssemblyInfo.cs
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\obj\Debug\net5.0\Io.csproj.CoreCompileInputs.cache
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\obj\Debug\net5.0\Io.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\obj\Debug\net5.0\refint\Io.dll
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\obj\Debug\net5.0\Io.pdb
+C:\Users\KIANO\Desktop\Cuatrimestre2_Tecn_UTN\Ejercicios_GuiaProgramación\Archivos\Guia_Archivos_LanzarYAtrapar\Io\obj\Debug\net5.0\ref\Io.dll

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consola_Archivos_LanzarYAtrapar/1.0.0": {
+        "dependencies": {
+          "Guia_Archivos_LanzarYAtrapar": "1.0.0",
+          "Io": "1.0.0"
+        },
+        "runtime": {
+          "Consola_Archivos_LanzarYAtrapar.dll": {}
+        }
+      },
+      "Guia_Archivos_LanzarYAtrapar/1.0.0": {
+        "runtime": {
+          "Guia_Archivos_LanzarYAtrapar.dll": {}
+        }
+      },
+      "Io/1.0.0": {
+        "runtime": {
+          "Io.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola_Archivos_LanzarYAtrapar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guia_Archivos_LanzarYAtrapar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Io/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

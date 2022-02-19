@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6651ede-794d-4291-97dc-88317965d8b1": {
+      "ProjectGuid": "f6651ede-794d-4291-97dc-88317965d8b1",
+      "DisplayName": "Guia_Generics_Ej01",
+      "ColorIndex": 0
+    },
+    "deef8d7e-3d37-4db6-a88f-0c44286df984": {
+      "ProjectGuid": "deef8d7e-3d37-4db6-a88f-0c44286df984",
+      "DisplayName": "Consola_Generisc_Ej01",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
